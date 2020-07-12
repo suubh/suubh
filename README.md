@@ -1,4 +1,7 @@
 ### Hi there 👋
+<ul>
+  <li>🔭 I’m currently working on Machine Learning and Data Science.<li>
+<ul>
 🔭 I’m currently working on Machine Learning and Data Science.
 🌱 I’m currently learning Data Analyzation.
 👯 I’m looking to collaborate on Open Source.
