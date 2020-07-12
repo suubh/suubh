@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on Machine Learning and Data Science.
+🌱 I’m currently learning Data Analyzation.
+👯 I’m looking to collaborate on Open Source.
+📫 How to reach me:subhdec99@gmail.com | https://www.linkedin.com/in/shubham-singh-356ba5168
 
 <!--
 **suubh/suubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
