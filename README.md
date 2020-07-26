@@ -11,7 +11,7 @@
 </a>
 <a href="https://www.instagram.com/shutt3rbug_/">
 <img align="left" alt="Shubham Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+    </a></li>
 </ul>
     
 
