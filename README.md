@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
 <img align="left" alt="Shubham LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto :subhdec99@gmail.com">
+<a href = "mailto:subhdec99@gmail.com">
 <img align="left" alt="Shubham Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/shutt3rbug_/">
@@ -10,7 +10,7 @@
 </a>
 <br>
 <hr>
-<p align="center">Visitor count<br><img src="https://profile-sounter.glitch.me/suubh/count.svg" /></p>
+<p align="center">Visitor count<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
 <hr>
 <ul>
   <li>🔭 I’m currently working on Machine Learning and Data Science.</li>
