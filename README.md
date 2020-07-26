@@ -3,7 +3,15 @@
   <li>🔭 I’m currently working on Machine Learning and Data Science.</li>
   <li>🌱 I’m currently learning Data Analyzation.</li>
   <li>👯 I’m looking to collaborate on Open Source.</li>
-  <li>📫 How to reach me: subhdec99@gmail.com |<a href="https://www.linkedin.com/in/shubham-singh-356ba5168"> LinkedIn </a> | <a href="https://www.instagram.com/shutt3rbug_/?hl=en">Instagram</a></li>  
+  <li>📫 How to reach me:  <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
+<img align="left" alt="Shubham LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto :subhdec99@gmail.com">
+<img align="left" alt="Shubham Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/shutt3rbug_/">
+<img align="left" alt="Shubham Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 </ul>
     
 
