@@ -20,7 +20,7 @@
 </ul>
 <hr>
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&hide_border=true&color=black)
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&hide_border=true)
     
 
 
