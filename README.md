@@ -10,6 +10,8 @@
 </a>
 <br>
 <hr>
+<p align="center">Visitor count<br><img src="https://profile-sounter.glitch.me/suubh/count.svg" /></p>
+<hr>
 <ul>
   <li>🔭 I’m currently working on Machine Learning and Data Science.</li>
   <li>🌱 I’m currently learning Data Analyzation.</li>
