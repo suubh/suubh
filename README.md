@@ -18,7 +18,6 @@
   <li>👯 I’m looking to collaborate on Open Source.</li>
   <li>💬 Ask me about anything, its always fun to learn and discuss.</li>
 </ul>
-<hr>
 <p><strong>Languages and Tools:<strong></p>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
