@@ -17,6 +17,7 @@
   <li>🌱 I’m currently learning Data Analyzation.</li>
   <li>👯 I’m looking to collaborate on Open Source.</li>
   <li>💬 Ask me about anything, its always fun to learn and discuss.</li>
+  <li>⚡ Fun fact:I am an enthusiast Photographer </li>
 </ul>
 <p><strong>Languages and Tools:<strong></p>
 
