@@ -12,9 +12,9 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br>
-<hr>
+
 <p align="center">Visitor count<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
-<hr>
+
 <ul>
   <li>🔭 I’m currently working on Machine Learning and Web Development.</li>
   <li>🌱 I’m currently learning Data Analyzation.</li>
