@@ -8,6 +8,9 @@
 <a href="https://www.instagram.com/shutt3rbug_/">
 <img align="left" alt="Shubham Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://medium.com/@subhdec99">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 <br>
 <hr>
 <p align="center">Visitor count<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
