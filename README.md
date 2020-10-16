@@ -11,6 +11,9 @@
 <a href="https://medium.com/@subhdec99">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://dev.to/suubh">
+  <img align="left" alt="Shubham DEV" width="22px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png">
+</a>
 <br>
 <hr>
 <p align="center">Visitor count<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
