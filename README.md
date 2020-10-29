@@ -23,10 +23,10 @@
 <p align="center"><br>Visitor count<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
 <ul>
   <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning and Web Development.</li>
-  <li>🌱 I’m currently learning Data Analyzation.</li>
-  <li>👯 I’m looking to collaborate on Open Source.</li>
-  <li>💬 Ask me about anything, its always fun to learn and discuss.</li>
-  <li><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Fun fact: I am an enthusiast Photographer </li>
+  <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Data Analyzation.</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> I’m looking to collaborate on Open Source.</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/> Ask me about anything, its always fun to learn and discuss.</li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> Fun fact: I am an enthusiast Photographer </li>
 </ul>
 <p><strong>Languages and Tools:<strong></p>
 
