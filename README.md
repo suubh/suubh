@@ -21,6 +21,7 @@
 
 <br>
 <p align="center"><br>Visitor count<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
+<br>
 ## About 
 <ul>
   <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning and Web Development.</li>
