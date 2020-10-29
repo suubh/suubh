@@ -14,6 +14,13 @@
 <a href="https://dev.to/suubh">
   <img align="left" alt="Shubham DEV" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png">
 </a>
+<a href="https://open.spotify.com/user/22jffys2vvo5gpuf4ooozafta?si=G--M2ERgTtWdwCXo6wf1jA" target="blank">
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="rpotter12" height="20" width="20" />
+
+</a>
+
+
 <br>
 <p align="center"><br>Visitor count<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
 <ul>
