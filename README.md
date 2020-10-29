@@ -33,6 +33,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/938/1*XEzukXOEUudcXkyrouu3vw.jpeg"></code>
+<code><img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="30px"/></code>
+<code><img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="30px"/></code>
+
 
 
 <p align="center">
