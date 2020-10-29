@@ -37,6 +37,14 @@
 <code><img height="40" src="https://miro.medium.com/max/938/1*XEzukXOEUudcXkyrouu3vw.jpeg"></code>
 
 <hr>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rpotter12&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpotter12&layout=compact&theme=tokyonight" alt="languages" height="165">
+
+</p>
+
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&hide_border=false)
 
