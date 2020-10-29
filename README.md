@@ -22,7 +22,7 @@
 <br>
 <p align="center"><br>Visitor count<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
 <ul>
-  <li>🔭 I’m currently working on Machine Learning and Web Development.</li>
+  <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning and Web Development.</li>
   <li>🌱 I’m currently learning Data Analyzation.</li>
   <li>👯 I’m looking to collaborate on Open Source.</li>
   <li>💬 Ask me about anything, its always fun to learn and discuss.</li>
