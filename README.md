@@ -49,6 +49,10 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suubh&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
+<div class="text-white bg-gray-dark mb-2">
+  .text-white on .bg-gray-dark
+</div>
+
 
 <!--
 **suubh/suubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
