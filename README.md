@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Shubham .<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Shubham .
 <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
 <img align="left" alt="Shubham LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -26,7 +26,7 @@
   <li>🌱 I’m currently learning Data Analyzation.</li>
   <li>👯 I’m looking to collaborate on Open Source.</li>
   <li>💬 Ask me about anything, its always fun to learn and discuss.</li>
-  <li>⚡ Fun fact: I am an enthusiast Photographer </li>
+  <li><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Fun fact: I am an enthusiast Photographer </li>
 </ul>
 <p><strong>Languages and Tools:<strong></p>
 
