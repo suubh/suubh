@@ -36,14 +36,14 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/938/1*XEzukXOEUudcXkyrouu3vw.jpeg"></code>
 
-<hr>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suubh&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&hide_border=false)
+
 
 
 
@@ -52,9 +52,9 @@
 <!--
 **suubh/suubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw)
-    
-Here are some ideas to get you started:
+    ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&hide_border=false)
 
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
