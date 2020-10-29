@@ -48,10 +48,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suubh&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
-#24292e, $bg-gray-dark
-<div class="text-white bg-gray-dark mb-2">
-  .text-white on .bg-gray-dark
-</div>
 
 
 <!--
