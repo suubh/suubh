@@ -15,7 +15,7 @@
   <img align="left" alt="Shubham DEV" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png">
 </a>
 <br>
-<p align="center">Visitor count<img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
+<p align="center"><br>Visitor count<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
 <ul>
   <li>🔭 I’m currently working on Machine Learning and Web Development.</li>
   <li>🌱 I’m currently learning Data Analyzation.</li>
