@@ -14,10 +14,8 @@
 <a href="https://dev.to/suubh">
   <img align="left" alt="Shubham DEV" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png">
 </a>
-<a href="https://open.spotify.com/user/22jffys2vvo5gpuf4ooozafta?si=G--M2ERgTtWdwCXo6wf1jA" target="blank">
-
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="rpotter12" height="20" width="20" />
-
+<a href="https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw" target="blank">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="suubh" height="26" width="26" />
 </a>
 
 
