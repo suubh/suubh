@@ -27,7 +27,7 @@
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> I’m currently learning Data Analyzation.</li>
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> I’m looking to collaborate on Open Source.</li>
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/> Ask me about anything, its always fun to learn and discuss.</li>
-  <li><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> Fun fact: I am an enthusiast Photographer </li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> Fun fact: I am an enthusiast Photographer. </li>
 </ul>
 <p><strong>Languages and Tools:<strong></p>
 
