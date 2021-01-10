@@ -28,18 +28,7 @@
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> Fun fact: I am an enthusiast Photographer. </li>
 </ul>
 <br>
-<p><strong>Languages and Tools:<strong></p>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" src="https://miro.medium.com/max/938/1*XEzukXOEUudcXkyrouu3vw.jpeg"></code>
-<code><img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="30px"/></code>
-<code><img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="30px"/></code>
 
 
 
@@ -59,6 +48,30 @@
 **suubh/suubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw)
     ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&hide_border=false)
+<p><strong>Languages and Tools:<strong></p>
+
+
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<code><img height="40" src="https://miro.medium.com/max/938/1*XEzukXOEUudcXkyrouu3vw.jpeg"></code>
+
+<code><img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="30px"/></code>
+
+<code><img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="30px"/></code>
+
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
