@@ -42,7 +42,6 @@
 </p>
 <br>
 
-<p align="center"><br>Profile visits<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p><br>
 
 
 
@@ -55,6 +54,7 @@
 <p><strong>Languages and Tools:<strong></p>
 
 
+<p align="center"><br>Profile visits<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p><br>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 
