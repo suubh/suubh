@@ -1,4 +1,4 @@
-<p> <img  src=https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif height="100px" > 
+<p> <img  src=https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif height="70px" > 
 <h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am <a href="https://suubh.github.io/Shubham/index.html" target="_blank">Shubham</a> </h2>.</p>
 <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
 <img align="left" alt="Shubham LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
