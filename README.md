@@ -21,7 +21,7 @@
 <a href="https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw" target="blank">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="suubh" height="26" width="26" />
 </a>
-
+<br>
 <br>
 <br>
 <img src="https://github.com/suubh/suubh/blob/master/Screenshot%20(274).png">
