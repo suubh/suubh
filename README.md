@@ -55,7 +55,7 @@
 <details>
   <summary> Watch me Social 🤔 </summary>
   <div>
-    <a href="https://github.com/shub______/github-readme-twitter">
+    <a href="https://twitter.com/shub______">
       <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=shub______&layout=wide&show_reply=off&show_retweet=on" />
     </a>
  <p align="right">
@@ -72,6 +72,7 @@
 **suubh/suubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw)
     ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&hide_border=false)
+https://github.com/shub______/github-readme-twitter
 <p><strong>Languages and Tools:<strong></p>
 
 
