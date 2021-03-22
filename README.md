@@ -22,14 +22,6 @@
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="suubh" height="26" width="26" />
 </a>
 <br>
-
-
-
-
-<p>
-  <img width="50px" src="https://media.giphy.com/media/lpHQvZu6stHKo/giphy.gif"/>
- </p>
-
 <br>
 <br>
 <img src="https://github.com/suubh/suubh/blob/master/Screenshot%20(274).png">
@@ -85,6 +77,9 @@
     ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&hide_border=false)
 https://github.com/shub______/github-readme-twitter
 <p><strong>Languages and Tools:<strong></p>
+<p>CREEPER
+  <img width="50px" src="https://media.giphy.com/media/lpHQvZu6stHKo/giphy.gif"/>
+ </p>
 
 
 <p align="center"><br>Profile visits<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p><br>
