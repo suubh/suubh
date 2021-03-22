@@ -60,9 +60,12 @@
     </a>
     
     
- <p align="right" width="10px">
+ <p align="right">
+    <a href="https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw" target="_blank">
+    <img src="https://novatorem.vercel.app/api/spotify"/>
+  </a>
   
-   [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw)
+  
  </p>
   </div>
 </details>
