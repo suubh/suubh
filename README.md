@@ -60,7 +60,7 @@
     </a>
     
    <a href="https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw" target="_blank">
-    <img width="20px" src="https://novatorem.vercel.app/api/spotify"/>
+    <img width="100px" src="https://novatorem.vercel.app/api/spotify"/>
   </a>
   
   
