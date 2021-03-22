@@ -23,7 +23,7 @@
 </a>
 <br>
 <p align="center">
-  <img src="https://media.giphy.com/media/lpHQvZu6stHKo/giphy.gif"/>
+  <img width="50px" src="https://media.giphy.com/media/lpHQvZu6stHKo/giphy.gif"/>
  </p>
 
 <br>
