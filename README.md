@@ -57,7 +57,7 @@
 <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=shub______&layout=wide&show_reply=off&show_retweet=on" />
 </a>
 
-[![Akshita Medium post](https://github-readme-medium.vercel.app/?username=suubh)](https://medium.com/@subhdec99)
+[![Shubham Medium post](https://github-readme-medium.vercel.app/?username=suubh)](https://subhdec99.medium.com/)
 
 
 
