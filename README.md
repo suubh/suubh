@@ -60,7 +60,7 @@
     </a>
     
     
- <p align="right">
+ <p align="right" width="50px">
   
    [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw)
  </p>
