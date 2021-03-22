@@ -22,6 +22,10 @@
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="suubh" height="26" width="26" />
 </a>
 <br>
+<p align="center">
+  <img src="https://media.giphy.com/media/lpHQvZu6stHKo/giphy.gif"/>
+ </p>
+
 <br>
 <br>
 <img src="https://github.com/suubh/suubh/blob/master/Screenshot%20(274).png">
