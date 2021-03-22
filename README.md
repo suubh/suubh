@@ -59,7 +59,9 @@
       <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=shub______&layout=wide&show_reply=off&show_retweet=on" />
     </a>
    <p align="right">
+     
    [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw)
+     
     </p>
   </div>
 </details>
