@@ -5,7 +5,8 @@
 
 <p align="center">  
   
-  <h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am <a href="https://suubh.github.io/Shubham/index.html" target="_blank">Shubham</a>. </h1>
+  <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am <a href="https://suubh.github.io/Shubham/index.html" target="_blank">Shubham</a>.</h1>
+  
 </p>
 
 
