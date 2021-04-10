@@ -62,7 +62,6 @@
 </p>
 
 <p align="center"> 
-  
   <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark" alt="suubh" />
 </p>
 
