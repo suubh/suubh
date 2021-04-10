@@ -59,13 +59,14 @@
 
 
 
-
+<details>
+  <summary> Watch my trophies .</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=suubh&theme=monokai"/>
   </a>
 </p>
-
+</details>
 <p align="center"> 
   <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark" alt="suubh" />
 </p>
