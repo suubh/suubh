@@ -4,9 +4,15 @@
 </p>
 
 
-<p align="center">  
-  <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am <a href="https://suubh.github.io/Shubham/index.html" target="_blank">Shubham</a>.</h1> 
+
+
+
+<p align="center"><h1>I am <a href="https://suubh.github.io/Shubham/index.html" target="_blank">Shubham</a>.</h1> 
 </p>
+
+
+
+
 
 
 <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
@@ -97,6 +103,7 @@
     ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&hide_border=false)
 https://github.com/shub______/github-readme-twitter
 <p><strong>Languages and Tools:<strong></p>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 <p>CREEPER
   <img width="50px" src="https://media.giphy.com/media/lpHQvZu6stHKo/giphy.gif"/>
  </p>
