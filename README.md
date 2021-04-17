@@ -1,10 +1,10 @@
 <p align="center">
-  <img src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif height="65px" width="90px" >
   <img src=https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif height="70px" > 
 </p>
 
 
-<p align="center"><h1>I am <a href="https://suubh.github.io/Shubham/index.html" target="_blank">Shubham</a>.</h1> 
+<p align="center">  <img src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif height="65px" width="90px" >
+<h1>I am <a href="https://suubh.github.io/Shubham/index.html" target="_blank">Shubham</a>.</h1> 
 </p>
 
 <p align="center">
