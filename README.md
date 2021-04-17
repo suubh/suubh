@@ -38,8 +38,8 @@
 <br>
 <img src="https://github.com/suubh/suubh/blob/master/Screenshot%20(274).png">
 <ul>
-  <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning.Have knowledge of some basics ML algorithms and worked on Intrusion detection system and algorithms analysis in datasets.Looking forward to learn DNN. </li>
-  <li><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> I’m currently learning Web development specifically MERN stack for web implementation of some projects and interest.Have some basic knowledge of Android using Kotlin.</li>
+  <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning.Have knowledge of some basics <a href="https://github.com/suubh/Machine-Learning-in-Python">ML algorithms</a> and worked on Intrusion detection system and algorithms analysis in datasets.Looking forward to learn DNN. </li>
+  <li><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> I’m currently learning Web development specifically MERN stack for web implementation of some projects and interest.Have some basic knowledge of <a href="https://github.com/suubh/Hello-Android">Android</a> using Kotlin.</li>
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> I’m looking to collaborate on Open Source and participate in <a href="https://devpost.com/shubham-btech18?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Hackathons</a>.</li>
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/> Ask me about anything, its always fun to learn and discuss.</li>
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> Fun fact: I am an enthusiast Photographer. </li>
