@@ -3,8 +3,7 @@
 </p>
 
 
-<p align="center">  <img src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif height="65px" width="90px" >
-<h1>I am <a href="https://suubh.github.io/Shubham/index.html" target="_blank">Shubham</a>.</h1> 
+<p align="center"><h1>I am <a href="https://suubh.github.io/Shubham/index.html" target="_blank">Shubham</a>.</h1> 
 </p>
 
 <p align="center">
@@ -105,6 +104,7 @@ https://github.com/shub______/github-readme-twitter
 <p>CREEPER
   <img width="50px" src="https://media.giphy.com/media/lpHQvZu6stHKo/giphy.gif"/>
  </p>
+<img src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif height="65px" width="90px" >
 
 
 <p align="center"><br>Profile visits<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p><br>
