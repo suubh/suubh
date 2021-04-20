@@ -1,6 +1,5 @@
 <p align="center">
-  
-  <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="150px" width="230px" > 
+  <img align="center" src="https://user-images.githubusercontent.com/47265493/115407151-6e13d480-a20d-11eb-9e87-bcc6d3d88c30.gif" height="150px" width="230px" > 
 </p>
 
 
