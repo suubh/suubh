@@ -56,7 +56,7 @@
 
 <details>
   <summary> Watch contribution graph </summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=suubh&theme=github" >
+  <img width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suubh&theme=github" >
     
 </details>
 
