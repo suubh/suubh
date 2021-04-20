@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
     <img align="center" alt="Shubham LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  
+  &nbsp
   <a href = "mailto:subhdec99@gmail.com">
     <img align="center" alt="Shubham Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
