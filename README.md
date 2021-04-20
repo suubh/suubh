@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <h1 align="center">I am <a href="https://suubh.github.io/Shubham/index.html">Shubham</a>.</h1>
+  <h2 align="center">I am <a href="https://suubh.github.io/Shubham/index.html">Shubham</a>.</h2>
 </p>
 
 <p align="center">
