@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center"><h1>I am <a href="https://suubh.github.io/Shubham/index.html" target="_blank">Shubham</a>.</h1> 
+<p align="center">I am <a href="https://suubh.github.io/Shubham/index.html">Shubham</a>.
 </p>
 
 <p align="center">
