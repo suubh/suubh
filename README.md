@@ -1,11 +1,11 @@
 <p align="center">
   
-  <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="150px" width="240px" > 
+  <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="150px" width="230px" > 
 </p>
 
 
 <p align="center">
-  I am <a href="https://suubh.github.io/Shubham/index.html">Shubham</a>.
+  <h1>I am <a href="https://suubh.github.io/Shubham/index.html">Shubham</a>.</h1>
 </p>
 
 <p align="center">
