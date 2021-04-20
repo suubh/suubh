@@ -16,27 +16,27 @@
   <a href = "mailto:subhdec99@gmail.com">
     <img align="center" alt="Shubham Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
-  
+   &nbsp
   <a href="https://www.instagram.com/shutt3rbug_/">
     <img align="center" alt="Shubham Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  
+   &nbsp
   <a href="https://www.twitter.com/shub______">
     <img align="center" alt="Shubham Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  
+  &nbsp
   <a href="https://medium.com/@subhdec99">
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
-  
+  &nbsp
   <a href="https://dev.to/suubh">
     <img align="center" alt="Shubham DEV" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png">
   </a>
-  
+  &nbsp
   <a href="https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw" target="blank">
      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="suubh" height="26" width="26" />
   </a>
-  
+  &nbsp
 </p>
 
 
