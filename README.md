@@ -11,18 +11,27 @@
 <p align="center">
   
   <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+
+
     <img align="center" alt="Shubham LinkdeIN" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?logoColor=green" />
   </a>
   &nbsp
   <a href = "mailto:subhdec99@gmail.com">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+
     <img align="center" alt="Shubham Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
    &nbsp
   <a href="https://www.instagram.com/shutt3rbug_/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+
     <img align="center" alt="Shubham Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
    &nbsp
   <a href="https://www.twitter.com/shub______">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+
     <img align="center" alt="Shubham Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   &nbsp
