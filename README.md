@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp
-  <a href = "mailto:subhdec99@gmail.com">
+  <a href = "https://www.facebook.com/people/Shubham-Singh/100007093204284/">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
    &nbsp
@@ -73,8 +73,9 @@
   </a>
 </p>
 </details>
-<p align="center"> 
-  <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark" alt="suubh" />
+<p> 
+  <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark" alt="suubh" />  <img align="center" src="https://readme-jokes.vercel.app/api">
+
 </p>
 
 <details>
