@@ -74,7 +74,7 @@
 </p>
 </details>
 <p> 
-  <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark" alt="suubh" />  <img align="center" src="https://readme-jokes.vercel.app/api">
+  <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark" alt="suubh" /> 
 
 </p>
 
