@@ -31,7 +31,7 @@
   </a>
   &nbsp
   <a href="https://dev.to/suubh">
-            <img alt="followers" title="Follow me on Dev" src="https://img.shields.io/badge/Dev-1DA1F2?style=for-the-badge&logo=dev&logoColor=green"/>
+            <img alt="followers" title="Follow me on Dev" src="https://img.shields.io/badge/Dev-1DA1F2?style=for-the-badge&logo=dev&Color=green"/>
 
     <img align="center" alt="Shubham DEV" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png">
   </a>
