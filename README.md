@@ -27,7 +27,7 @@
   </a>
   &nbsp
   <a href="https://medium.com/@subhdec99">
-    <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+        <img alt="followers" title="Follow me on Medium" src="https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   &nbsp
   <a href="https://dev.to/suubh">
@@ -117,6 +117,7 @@ https://github.com/shub______/github-readme-twitter
     <img align="center" alt="Shubham Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
     <img align="center" alt="Shubham Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     <img align="center" alt="Shubham Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 
 
 <p><strong>Languages and Tools:<strong></p>
