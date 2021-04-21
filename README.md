@@ -55,26 +55,6 @@
  </p>   
 </details>
 
-
-
-
-| ![Subham GitHub Statistics](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suubh&theme=tokyonight) |
-| --- | --- |
-| ![ GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suubh&layout=compact&theme=tokyonight" alt="languages" height="165">
@@ -131,6 +111,9 @@ https://github.com/shub______/github-readme-twitter
   </a>
 </p>
 </details>
+| ![Subham GitHub Statistics](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suubh&theme=tokyonight) |
+| --- | --- |
+| ![ GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
 <p><strong>Languages and Tools:<strong></p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
