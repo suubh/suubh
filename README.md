@@ -27,7 +27,7 @@
   </a>
   &nbsp
   <a href="https://medium.com/@subhdec99">
-        <img alt="followers" title="Follow me on Medium" src="https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=brightgreen"/>
+        <img alt="followers" title="Follow me on Medium" src="https://img.shields.io/badge/Medium-brightgreen?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   &nbsp
 </p>
