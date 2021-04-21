@@ -65,14 +65,7 @@
 
 
 
-<details>
-  <summary> Watch my trophies .</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=suubh&theme=monokai"/>
-  </a>
-</p>
-</details>
+
 <p align="center"> 
   <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark" alt="suubh" /> 
 
@@ -112,7 +105,14 @@ https://github.com/shub______/github-readme-twitter
     <img align="center" alt="Shubham Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
     <img align="center" alt="Shubham DEV" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png">
-
+<details>
+  <summary> Watch my trophies .</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=suubh&theme=monokai"/>
+  </a>
+</p>
+</details>
 
 <p><strong>Languages and Tools:<strong></p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
