@@ -31,11 +31,9 @@
   </a>
   &nbsp
   <a href="https://dev.to/suubh">
+            <img alt="followers" title="Follow me on Dev" src="https://img.shields.io/badge/Dev-1DA1F2?style=for-the-badge&logo=dev&logoColor=green"/>
+
     <img align="center" alt="Shubham DEV" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png">
-  </a>
-  &nbsp
-  <a href="https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw" target="blank">
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="suubh" height="26" width="26" />
   </a>
   &nbsp
 </p>
