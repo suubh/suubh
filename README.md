@@ -1,9 +1,11 @@
 <p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii%20There%20!,I%20am%20Shubham;Welcome%20to%20my%20Github%20Profile;⭐OPEN%20SOURCE%20FOR%20THE%20WIN⭐;You%20are%20great!;Thank%20You;&center=true&width=450&height=25"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii%20There%20!I%20am%20Shubham;Welcome%20to%20my%20Github%20Profile;⭐OPEN%20SOURCE%20FOR%20THE%20WIN⭐;You%20are%20great!;Thank%20You;&center=true&width=450&height=25"></a>
 </p>
 
 <p align="center">
+  <a href="https://suubh.github.io/Shubham/index.html">
   <img align="center" src="https://user-images.githubusercontent.com/47265493/115407151-6e13d480-a20d-11eb-9e87-bcc6d3d88c30.gif" height="150px" width="230px" > 
+  </a>
 </p>
 
 
@@ -37,7 +39,7 @@
 
 
 <br>
-<img src="https://github.com/suubh/suubh/blob/master/Screenshot%20(274).png">
+<a href="https://suubh.github.io/Shubham/index.html"><img src="https://github.com/suubh/suubh/blob/master/Screenshot%20(274).png"></a>
 <ul>
   <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning.I have knowledge of <a href="https://github.com/suubh/Machine-Learning-in-Python">ML algorithms</a> and worked on Intrusion detection system and algorithms analysis in datasets.Looking forward to learn DNN. </li>
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> I’m currently learning Web development specifically MERN stack for web implementation of some projects and interest.Have some basic knowledge of <a href="https://github.com/suubh/Hello-Android">Android</a> using Kotlin.</li>
