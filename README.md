@@ -51,7 +51,10 @@
 <br>
 
 <details>
-  <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=Watch contribution graph"></summary>
+  <summary>
+    
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Watch my contribution graph here)](https://git.io/typing-svg)
+</summary>
   
  <p align="center">
   <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suubh&theme=github" >
@@ -73,7 +76,11 @@
 </p>
 
 <details>
-  <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=Watch me social 🤔> </summary>
+  <summary>
+    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Watch me Social)](https://git.io/typing-svg)
+
+  </summary>
   <div>
     <a href="https://twitter.com/shub______">
       <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=shub______&layout=wide&show_reply=off&show_retweet=on" />
