@@ -7,8 +7,8 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hii)](https://git.io/typing-svg)
 
-  <h3 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
- I am <a href="https://suubh.github.io/Shubham/index.html">Shubham</a>.</h3>
+  <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hii"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://readme-typing-svg.herokuapp.com/?lines=I am"> <a href="https://suubh.github.io/Shubham/index.html"><img src="https://readme-typing-svg.herokuapp.com/?lines=Shubham"></a>.</h3>
+  
 </p>
 
 <p align="center">
