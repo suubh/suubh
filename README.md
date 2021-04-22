@@ -1,5 +1,5 @@
-  <p align="center">
-  
+<p align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hii there + Welcome to my Github Profile + OPEN SOURCE FOR THE WIN! ">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hii there + Welcome to my Github Profile + OPEN SOURCE FOR THE WIN! )](https://git.io/typing-svg)
 </p>
 <p align="center">
