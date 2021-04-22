@@ -7,7 +7,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hii)](https://git.io/typing-svg)
 
-  <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hii"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://readme-typing-svg.herokuapp.com/?lines=I am"> <a href="https://suubh.github.io/Shubham/index.html"><img src="https://readme-typing-svg.herokuapp.com/?lines=Shubham"></a>.</h3>
+  <h3 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am <a href="https://suubh.github.io/Shubham/index.html">Shubham</a>.</h3>
   
 </p>
 
@@ -51,7 +51,7 @@
 <br>
 
 <details>
-  <summary> Watch contribution graph </summary>
+  <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=Watch contribution graph"></summary>
   
  <p align="center">
   <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suubh&theme=github" >
@@ -73,7 +73,7 @@
 </p>
 
 <details>
-  <summary> Watch me Social 🤔 </summary>
+  <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=Watch me social 🤔> </summary>
   <div>
     <a href="https://twitter.com/shub______">
       <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=shub______&layout=wide&show_reply=off&show_retweet=on" />
