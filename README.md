@@ -4,6 +4,9 @@
 
 
 <p align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hii)](https://git.io/typing-svg)
+
   <h3 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
  I am <a href="https://suubh.github.io/Shubham/index.html">Shubham</a>.</h3>
 </p>
