@@ -89,7 +89,7 @@
 <p align="center">
   <img align="center" src="https://readme-jokes.vercel.app/api">
  </p> 
-<p align="center">Show some ❤️ by starring some of the repositories!
+<p align="center">Show some ❤️ by starring some of the repositories !
 </p>
 
 
