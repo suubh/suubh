@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii%20There%20!%20I%20am%20Shubham;Welcome%20to%20my%20Github%20Profile;⭐OPEN%20SOURCE%20FOR%20THE%20WIN⭐;You%20are%20great!✨;Thank%20You❤️;&center=true&width=450&height=25"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii%20There%20!%20I%20am%20Shubham;Welcome%20to%20my%20Github%20Profile;⭐OPEN%20SOURCE%20FOR%20THE%20WIN⭐;You%20are%20great!✨;Thank%20You❤️;&center=true&width=450&height=27"></a>
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
    &nbsp
-  ⭐<a href="https://shubhamdev.netlify.app/">
+  ✨<a href="https://shubhamdev.netlify.app/">
     <img src="https://img.shields.io/badge/portfolio-%23E4405F.svg?&style=for-the-badge&logo=portfolio&logoColor=white">
-  </a>⭐
+  </a>✨
    &nbsp
   <a href="https://www.twitter.com/shub______">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
