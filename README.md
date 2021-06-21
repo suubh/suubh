@@ -21,7 +21,7 @@
   </a>
    &nbsp
   ✨<a href="https://shubhamdev.netlify.app/">
-    <img src="https://img.shields.io/badge/portfolio-%23E4405F.svg?&style=for-the-badge&logo=portfolio&logoColor=white">
+    <img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge&logo=website&logoColor=white">
   </a>✨
    &nbsp
   <a href="https://www.twitter.com/shub______">
