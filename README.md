@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://suubh.github.io/Shubham/index.html">
+  <a href="https://shubhamdev.netlify.app/">
   <img align="center" src="https://user-images.githubusercontent.com/47265493/115407151-6e13d480-a20d-11eb-9e87-bcc6d3d88c30.gif" height="150px" width="230px" > 
   </a>
 </p>
@@ -39,7 +39,6 @@
 
 
 <br>
-<a href="https://suubh.github.io/Shubham/index.html"><img src="https://github.com/suubh/suubh/blob/master/Screenshot%20(274).png"></a>
 <ul>
   <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning.I have knowledge of <a href="https://github.com/suubh/Machine-Learning-in-Python">ML algorithms</a> and worked on Intrusion detection system and algorithms analysis in datasets.Looking forward to learn DNN and try Reinforcement Learning. </li>
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> I’m currently learning Web development specifically MERN stack for web implementation of some projects and interest.I have some basic knowledge of <a href="https://github.com/suubh/Hello-Android">Android</a> using Kotlin.</li>
