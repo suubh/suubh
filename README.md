@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Hii%20There%20!%20I%20am%20Shubham;Welcome%20to%20my%20Github%20Profile;⭐OPEN%20SOURCE%20FOR%20THE%20WIN⭐;You%20are%20great!✨;Thank%20You❤️;&center=true&width=450&height=29"></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://shubhamdev.netlify.app/">
   <img align="center" src="https://user-images.githubusercontent.com/47265493/123115548-cfe6f980-d45d-11eb-9cf9-29f41598a44a.gif" height="200px" width="200px" > 
   </a>
 </p>
-
+ -->
 
 <!-- https://user-images.githubusercontent.com/47265493/115407151-6e13d480-a20d-11eb-9e87-bcc6d3d88c30.gif
  -->
