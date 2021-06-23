@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://shubhamdev.netlify.app/">
-  <img align="center" src="https://user-images.githubusercontent.com/47265493/115407151-6e13d480-a20d-11eb-9e87-bcc6d3d88c30.gif" height="150px" width="230px" > 
+  <img align="center" src="https://media.giphy.com/media/3og0IS6SldW60DdCRa/giphy.gif
+" height="150px" width="230px" > 
   </a>
 </p>
-
-
-
+<!-- https://user-images.githubusercontent.com/47265493/115407151-6e13d480-a20d-11eb-9e87-bcc6d3d88c30.gif
+ -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
     <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white">
