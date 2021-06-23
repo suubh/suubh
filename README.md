@@ -4,10 +4,11 @@
 
 <p align="center">
   <a href="https://shubhamdev.netlify.app/">
-  <img align="center" src="https://media.giphy.com/media/3og0IS6SldW60DdCRa/giphy.gif
-" height="150px" width="230px" > 
+  <img align="center" src="https://user-images.githubusercontent.com/47265493/123115548-cfe6f980-d45d-11eb-9cf9-29f41598a44a.gif" height="150px" width="230px" > 
   </a>
 </p>
+
+
 <!-- https://user-images.githubusercontent.com/47265493/115407151-6e13d480-a20d-11eb-9e87-bcc6d3d88c30.gif
  -->
 <p align="center">
