@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://shubhamdev.netlify.app/">
-  <img align="center" src="https://user-images.githubusercontent.com/47265493/123115548-cfe6f980-d45d-11eb-9cf9-29f41598a44a.gif" height="150px" width="230px" > 
+  <img align="center" src="https://user-images.githubusercontent.com/47265493/123115548-cfe6f980-d45d-11eb-9cf9-29f41598a44a.gif" height="200px" width="200px" > 
   </a>
 </p>
 
