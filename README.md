@@ -12,6 +12,11 @@
 
 <p align="center">
   
+  
+  [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shub______)](https://twitter.com/shub______)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-singh-356ba5168)](https://www.linkedin.com/in/shubham-singh-356ba5168)
+  
+  
   <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
