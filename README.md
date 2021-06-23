@@ -15,12 +15,12 @@
   
   [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shub______)](https://twitter.com/shub______)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-singh-356ba5168)](https://www.linkedin.com/in/shubham-singh-356ba5168)
-   [![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=website&logoColor=white&link=https://shubhamdev.netlify.app)](https://shubhamdev.netlify.app)
+   ✨[![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=website&logoColor=white&link=https://shubhamdev.netlify.app)](https://shubhamdev.netlify.app)✨
    [![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/people/Shubham-Singh/100007093204284/)](https://www.facebook.com/people/Shubham-Singh/100007093204284/)
   
   
   
-  <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
+<!--   <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp
@@ -39,7 +39,7 @@
   <a href="https://medium.com/@subhdec99">
         <img alt="followers" title="Follow me on Medium" src="https://img.shields.io/badge/Medium-brightgreen?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  &nbsp
+  &nbsp -->
 </p>
 
 
