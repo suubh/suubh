@@ -71,7 +71,7 @@
 </p>
 
 <details>
-  <summary>Watch me Social 🤔.</summary>
+  <summary>Watch me Social🤔.</summary>
   <div>
     <a href="https://twitter.com/shub______">
       <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=shub______&layout=wide&show_reply=off&show_retweet=on" />
