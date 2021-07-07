@@ -46,7 +46,11 @@
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/> Ask me about anything, its always fun to learn and discuss new tech.</li>
   <li><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> Fun fact: I am an enthusiast Photographer. </li>
 </ul>
+<img src="https://user-images.githubusercontent.com/47265493/124780561-515f8100-df60-11eb-92ce-d095d60f5787.jpg" align="left">
+
+
 <br>
+
 
 <details>
   <summary>Watch my contribution graph here.</summary>
