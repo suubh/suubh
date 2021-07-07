@@ -63,13 +63,7 @@
 
 
 
-<details>
-  <summary>Watch my contribution graph here.</summary>
-  
- <p align="center">
-  <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suubh&theme=github" >
- </p>   
-</details>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
@@ -84,7 +78,13 @@
   <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark" alt="suubh" /> 
 
 </p>
-
+<details>
+  <summary>Watch my contribution graph here.</summary>
+  
+ <p align="center">
+  <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suubh&theme=github" >
+ </p>   
+</details>
 <details>
   <summary>Watch me Social🤔.</summary>
   <div>
