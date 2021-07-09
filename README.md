@@ -60,7 +60,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&theme=dark" alt="my github stats" width="420"/>&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suubh&layout=compact&theme=tokyonight" alt="languages" height="165">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suubh&layout=compact&theme=dark" alt="languages" height="165">
 </p>
 <br>
 
@@ -75,7 +75,7 @@
   <summary>Watch my contribution graph here.</summary>
   
  <p align="center">
-  <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suubh&theme=github" >
+  <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suubh&theme=dark" >
  </p>   
 </details>
 <details>
