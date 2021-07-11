@@ -36,7 +36,7 @@
 
 
 
-<!-- <p align="right">Watch my contribution graph get eaten by the snake 🐍</p> -->
+<!-- <p align="right">Watch my contribution graph get eaten by the Snake 🐍</p> -->
 <img align="right" width="500px" height="250px" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" />
 
  <ul>
