@@ -1,7 +1,6 @@
 <p align="center" >
 <!--   <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Hii%20There%20!%20I%20am%20Shubham;Welcome%20to%20my%20Github%20Profile;⭐OPEN%20SOURCE%20FOR%20THE%20WIN⭐;You%20are%20great!✨;Thank%20You❤️;&center=true&width=450&height=29"></a> -->
- 
-    <strong>Hii There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,I am Shubham </strong>
+ <strong>Hii There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,I am Shubham </strong>
 
 </p>
 
