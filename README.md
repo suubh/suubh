@@ -22,9 +22,9 @@
         <img src="https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook&logoColor=white">
   </a>
    &nbsp
-  ✨<a href="https://shubhamdev.netlify.app/">
+  <a href="https://shubhamdev.netlify.app/">
     <img src="https://img.shields.io/badge/-Website-222222?style=flat-square&logo=website&logoColor=white">
-  </a>✨
+  </a>
    &nbsp
   <a href="https://www.twitter.com/shub______">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white"/>
