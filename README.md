@@ -15,11 +15,11 @@
  -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">
-    <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=blue">
   </a>
   &nbsp
   <a href = "https://www.facebook.com/people/Shubham-Singh/100007093204284/">
-        <img src="https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook&logoColor=white">
+        <img src="https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook&logoColor=blue">
   </a>
    &nbsp
   <a href="https://shubhamdev.netlify.app/">
@@ -27,11 +27,11 @@
   </a>
    &nbsp
   <a href="https://www.twitter.com/shub______">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white"/>
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=blue"/>
   </a>
   &nbsp
   <a href="https://medium.com/@subhdec99">
-        <img alt="followers" title="Follow me on Medium" src="https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white"/>
+        <img alt="followers" title="Follow me on Medium" src="https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=green"/>
   </a>
   &nbsp
 </p>
