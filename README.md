@@ -55,7 +55,7 @@
 <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> -->
 
 <!-- 
-### Watch my contribution graph get eaten by the snake 🐍
+### Watch my contribution get eaten by the snake 🐍
 <img align="right" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" /> -->
 
 
