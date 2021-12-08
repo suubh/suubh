@@ -81,8 +81,8 @@
  
  
  
-- [![Sorting Algorithm](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://gist.github.com/suubh/0b521f00faaa4c608c5ac445ab01b1d2)
-- [![Invite using Github Actions](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://gist.github.com/suubh/7b59a26b029e1676a1a519bff5dd4cf9)
+- [![Sorting Algorithm](https://img.shields.io/badge/Sorting%20Algorithm-standard-brightgreen.svg?style=flat)](https://gist.github.com/suubh/0b521f00faaa4c608c5ac445ab01b1d2)
+- [![Invite using Github Actions](https://img.shields.io/badge/Invite%20using%20GitHub%20Actions-standard-brightgreen.svg?style=flat)](https://gist.github.com/suubh/7b59a26b029e1676a1a519bff5dd4cf9)
 
 
  
@@ -118,68 +118,3 @@
 
 
 
-<!--
-**suubh/suubh** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ejjw6vcpxdok5fw4mchwoiscqq?si=N-KcmL0sTxaC6CXiKJuHIw)
-    ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&hide_border=false)
-https://github.com/shub______/github-readme-twitter
-    <img align="center" alt="Shubham LinkdeIN" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?logoColor=green" />
-    <img align="center" alt="Shubham Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-    <img align="center" alt="Shubham Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    <img align="center" alt="Shubham Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-    <img align="center" alt="Shubham DEV" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png">
-<details>
-  <summary> Watch my trophies .</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=suubh&theme=monokai"/>
-  </a>
-</p>
-</details>
-| ![Subham GitHub Statistics](https://github-readme-stats.vercel.app/api?username=suubh&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suubh&theme=tokyonight) |
-| --- | --- |
-| ![ GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suubh&theme=dark) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
-
-<p><strong>Languages and Tools:<strong></p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-<p>CREEPER
-  <img width="50px" src="https://media.giphy.com/media/lpHQvZu6stHKo/giphy.gif"/>
- </p>
-  HELLO -https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif
-<img src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif height="65px" width="90px" >
-
-
-<p align="center"><br>Profile visits<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p><br>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<code><img height="40" src="https://miro.medium.com/max/938/1*XEzukXOEUudcXkyrouu3vw.jpeg"></code>
-
-<code><img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="30px"/></code>
-
-<code><img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="30px"/></code>
-
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
