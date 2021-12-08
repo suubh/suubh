@@ -78,7 +78,12 @@
 
 <details>
   <summary>View my Gists.</summary>
+ 
+ 
   <script src="https://gist.github.com/suubh/0b521f00faaa4c608c5ac445ab01b1d2.js"></script>
+ 
+ 
+ 
 <!--  <p align="center">
   <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suubh&theme=dark" >
  </p>    -->
