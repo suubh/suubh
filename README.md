@@ -80,13 +80,12 @@
   <summary>View my Gists.</summary>
  
  
-  <script src="https://gist.github.com/suubh/0b521f00faaa4c608c5ac445ab01b1d2.js"></script>
  
+- [![Sorting Algorithm](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://gist.github.com/suubh/0b521f00faaa4c608c5ac445ab01b1d2)
+- [![Invite using Github Actions](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://gist.github.com/suubh/7b59a26b029e1676a1a519bff5dd4cf9)
+
+
  
- 
-<!--  <p align="center">
-  <img align="center" width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=suubh&theme=dark" >
- </p>    -->
 </details>
 
 <details>
