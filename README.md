@@ -81,8 +81,8 @@
  
  
  
-- [![Sorting Algorithm](https://img.shields.io/badge/Sorting%20Algorithm-standard-brightgreen.svg?style=flat)](https://gist.github.com/suubh/0b521f00faaa4c608c5ac445ab01b1d2)
-- [![Invite using Github Actions](https://img.shields.io/badge/Invite%20using%20GitHub%20Actions-standard-brightgreen.svg?style=flat)](https://gist.github.com/suubh/7b59a26b029e1676a1a519bff5dd4cf9)
+- [![Sorting Algorithm](https://img.shields.io/badge/Sorting%20Algorithm-Cpp-brightgreen.svg?style=flat)](https://gist.github.com/suubh/0b521f00faaa4c608c5ac445ab01b1d2)
+- [![Invite using Github Actions](https://img.shields.io/badge/Invite%20using%20GitHub%20Actions-YAML-brightgreen.svg?style=flat)](https://gist.github.com/suubh/7b59a26b029e1676a1a519bff5dd4cf9)
 
 
  
