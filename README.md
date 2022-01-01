@@ -43,7 +43,7 @@
 
  <ul>
   <li> I’m currently working on Machine Learning.I have knowledge of <a href="http://shubhamdev.me/Machine-Learning-in-Python/">ML algorithms</a> and worked on Intrusion detection system and algorithms analysis in datasets.Looking forward to learn DNN and try Reinforcement Learning. </li>
-  <li> I’m also learning Web development specifically MERN stack for web implementation of some projects and interest.I have some basic knowledge of <a href="https://github.com/suubh/Hello-Android">Android</a> using Kotlin.</li>
+  <li> I’m also learning Web development specifically MERN stack for web implementation of some projects and interest.I have some basic knowledge of <a href="https://github.com/suubh/Hello-Android">Android development</a> using Kotlin.</li>
   <li> I’m looking to collaborate on Open Source and participate in <a href="https://devpost.com/shubham-btech18?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Hackathons</a>.</li>
 <!--   <li><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/> Ask me about anything, its always fun to learn and discuss new tech.</li> -->
  <li> Fun fact: I am an enthusiast <a href="http://shubhamdev.me/photography/">Photographer.</a> </li>
