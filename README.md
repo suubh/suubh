@@ -110,9 +110,9 @@
  </p>
   </div>
 </details>
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://readme-jokes.vercel.app/api?theme=dark">
- </p> 
+ </p>  -->
 <p align="center">Show some ❤️ by starring some of the repositories !
 </p>
 
